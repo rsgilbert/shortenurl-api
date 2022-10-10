@@ -1,0 +1,8 @@
+node_modules
+src/auth/keys/
+.env
+db-backups/
+build/
+.DS_Store
+*.DS*
+attachments/
